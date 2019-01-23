@@ -1,3 +1,5 @@
-﻿  main.cpp
-d:\dev\visual studio\wvofmengineprojectfolder\wvofmsln\wvofm\source\main.cpp(5): warning C4326: return type of 'main' should be 'int' instead of 'void'
+﻿  App.cpp
+  Core.cpp
+  Generating Code...
+     Creating library D:\Dev\Visual Studio\WVOFMEngineProjectFolder\WVOFMsln\bin\Debug\Win32\WVOFM\WVOFM.lib and object D:\Dev\Visual Studio\WVOFMEngineProjectFolder\WVOFMsln\bin\Debug\Win32\WVOFM\WVOFM.exp
   WVOFM.vcxproj -> D:\Dev\Visual Studio\WVOFMEngineProjectFolder\WVOFMsln\bin\Debug\Win32\WVOFM\WVOFM.dll

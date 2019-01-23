@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Source\App.h" />
+    <ClInclude Include="Source\EntryPoint.h" />
     <ClInclude Include="WVOFM.h" />
   </ItemGroup>
   <ItemGroup>

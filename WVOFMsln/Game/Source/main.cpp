@@ -1,8 +1,16 @@
-#include <iostream>
-#include <WVOFM.h>
+#include "WVOFM.h"
 
-using namespace std;
+class Test : public WVOFM::App {
+public:
+	Test() {
 
-void main() {
-	cout << "hello world" << endl;
+	}
+
+	~Test() {
+
+	}
+};
+
+WVOFM::App* WVOFM::CreateApplication() {
+	return new Test();
 }

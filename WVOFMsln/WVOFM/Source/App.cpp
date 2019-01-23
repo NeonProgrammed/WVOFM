@@ -11,4 +11,8 @@ namespace WVOFM {
 	{
 	}
 
+	void App::run() {
+		while (true);
+	}
+
 }

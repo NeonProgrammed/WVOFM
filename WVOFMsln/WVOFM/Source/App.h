@@ -10,8 +10,11 @@ namespace WVOFM {
 
 		App();
 
-		~App();
+		virtual ~App();
+
+		void run();
 
 	};
 
+	App* CreateApplication();
 }
