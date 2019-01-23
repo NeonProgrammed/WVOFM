@@ -19,11 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Source\Logger.h" />
     <ClInclude Include="Source\App.h" />
     <ClInclude Include="Source\EntryPoint.h" />
     <ClInclude Include="WVOFM.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Source\Logger.cpp" />
     <ClCompile Include="Source\App.cpp" />
     <ClCompile Include="Source\Core.cpp" />
   </ItemGroup>
